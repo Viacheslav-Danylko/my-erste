@@ -1,3 +1,10 @@
 .name {
   color: #f51234;
 }
+
+.header-sentence {
+  font-family: "Tangerine";
+  font-size: 36px;
+  text-decoration: underline;
+  text-transform: none;
+}
