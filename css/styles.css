@@ -1,5 +1,11 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 .name {
-  color: #f51234;
+  color: #000;
 }
 
 .header-sentence {
